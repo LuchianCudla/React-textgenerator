@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-textgenerator/static/css/main.2bb73245.css",
+    "main.js": "/React-textgenerator/static/js/main.93a15337.js",
+    "index.html": "/React-textgenerator/index.html",
+    "main.2bb73245.css.map": "/React-textgenerator/static/css/main.2bb73245.css.map",
+    "main.93a15337.js.map": "/React-textgenerator/static/js/main.93a15337.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bb73245.css",
+    "static/js/main.93a15337.js"
+  ]
+}
